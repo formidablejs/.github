@@ -78,7 +78,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.34195328px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d535d;fill-opacity:1;stroke:#fff7ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-weight:normal;font-size:18.34195328px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d535d;fill-opacity:1;stroke:#fff7ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        x="182.56717"
        y="233.24298"
        id="text829"><tspan
@@ -86,6 +86,6 @@
          id="tspan827"
          x="182.56717"
          y="233.24298"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.04137421px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#4d535d;fill-opacity:1;stroke-width:2;stroke:#fff7ff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;">Formidable</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.04137421px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#4d535d;fill-opacity:1;stroke-width:1;stroke:#fff7ff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">Formidable</tspan></text>
   </g>
 </svg>
