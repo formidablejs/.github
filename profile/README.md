@@ -1,4 +1,4 @@
-<p align="center"><a href="https://formidablejs.org" target="_blank"><img src="https://raw.githubusercontent.com/formidablejs/.github/main/profile/cover.png" width="400"></a></p>
+<p align="center"><a href="https://formidablejs.org" target="_blank"><img src="https://raw.githubusercontent.com/formidablejs/.github/main/profile/cover.png"></a></p>
 
 Formidable (or formidablejs) is a Laravel inspired framework for building Full-Stack or Backend applications. It uses Imba by default and supports JavaScript and TypeScript. Formidable makes development quicker and easier with features like:
 
