@@ -6,4 +6,4 @@ Formidable (or formidablejs) is a Laravel inspired framework for building Full-S
 - [Knex.js - a query builder](https://www.formidablejs.org/docs/database-query-builder)
 - [Authentication - a session and jwt based auth system](https://www.formidablejs.org/docs/authentication)
 
-> Formidable is currently in Public Beta. If you have any feedback, please let us know!
+> Formidable is currently in Public Beta. See our [roadmap](https://github.com/formidablejs/roadmap) for more information. If you have any feedback, please let us know!.
