@@ -1,5 +1,9 @@
 <!-- <p align="center"><a href="https://formidablejs.org" target="_blank"><img src="https://raw.githubusercontent.com/formidablejs/.github/main/profile/cover.png"></a></p> -->
 
+Watch the stream:
+
+[![Watch the stream](https://img.youtube.com/vi/YJwzu8kPcPs/maxresdefault.jpg)](https://www.youtube.com/watch?v=YJwzu8kPcPs)
+
 Formidable (or formidablejs) is a Laravel inspired framework for building Full-Stack or Backend applications with TypeScript, JavaScript or Imba. Formidable makes development quicker and easier with features like:
 
 - [Craftsman - a development cli tool](https://www.formidablejs.org/docs/craftsman)
